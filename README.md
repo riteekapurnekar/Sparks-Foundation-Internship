@@ -1,5 +1,9 @@
 # Sparks-Foundation-Internship
 
-This repository includes all the tasks performed by me during the internship at The Sparks Foundation.
+This repository holds the project made by me during the internship at The Sparks Foundation as a Data Science and Business Analytics intern.
 
-It has the datasets and respective python files for the solution.
+The dataset used is: student_scores - student_scores.csv
+
+The python code file is: Task1.ipynb
+
+It has a Linear Regression model in which the by considering the hours of study, percentage is provided.
